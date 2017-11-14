@@ -6,4 +6,4 @@ function testNumber(a: number, b: number): number {
 
 const a = testNumber(1, 2);
 
-const b = (5: number);
+const b :number = 5;
